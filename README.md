@@ -1,12 +1,10 @@
 <pre align=center>
  👋 Welcome to X-Ticket!
-</pre>
 
-## 📬 Contact Us:
 <div align=center>
-  <a href="mailto:xticketa@gmail.com" style="text-decoration:none;">Email</a>
+  <a href="mailto:xticketa@gmail.com" style="text-decoration:none;">Contact Us</a>
 </div> 
-
+</pre>
 ## 🌐 About Us
 Xticket is an innovative and secure online marketplace that transforms the way users buy and sell pre-owned tickets 🎟️. Designed for simplicity and reliability, our platform enables users to quickly and easily list or purchase tickets for a variety of events—including those hard-to-get, sold-out shows 🎉.
 
