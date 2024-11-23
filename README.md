@@ -4,7 +4,7 @@
 
 ##📬 Contact Us:
 <div align=center>
-  <a href="mailto:xticketa@gmail.com" style="text-decoration:none;">Email</a> ⁂
+  <a href="mailto:xticketa@gmail.com" style="text-decoration:none;">Email</a>
 </div> 
 
 ##🌐 About Us
