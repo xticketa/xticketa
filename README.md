@@ -1,6 +1,6 @@
 <pre align=center>
  👋 Welcome to X-Ticket!
-<pre>
+</pre>
 
 ##📬 Contact Us:
 <div align=center>
